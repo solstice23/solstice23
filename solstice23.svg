@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 1920 1080" xml:space="preserve">
+	 viewBox="0 300 1920 780" xml:space="preserve">
 	<g>
 		<path fill="none" stroke="#5E72E4" stroke-width="0" stroke-miterlimit="10" d="M610,526c-4-9-10-18-29.5-17.5 c-17.12,0-28.5,6.52-28.5,20.5s20,20,30,21s31,9,29,24s-20,20-31,20c-15,0-27-10-32-22" stroke-dasharray="239">
 			<animate attributeName="stroke-width" begin="1s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>

@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ![](https://github.com/solstice23/solstice23/raw/master/solstice23.svg)
 

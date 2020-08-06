@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-![](solstice23.svg)
+![](https://github.com/solstice23/solstice23/raw/master/solstice23.svg)
 
 ![](https://github-readme-stats.vercel.app/api?username=solstice23&show_icons=true&theme=dracula)

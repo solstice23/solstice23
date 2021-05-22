@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 300 1920 480" xml:space="preserve">
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M610,526c-4-9-10-18-29.5-17.5 c-17.12,0-28.5,6.52-28.5,20.5s20,20,30,21s31,9,29,24s-20,20-31,20c-15,0-27-10-32-22" stroke-dasharray="239">
+			<animate attributeName="stroke-width" begin="1s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="0.5s" values="239; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="0.5s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M721,551.5c0,23.47-18.13,42.5-40.5,42.5 S640,574.97,640,551.5s18.13-42.5,40.5-42.5S721,528.03,721,551.5z" stroke-dasharray="261">
+			<animate attributeName="stroke-width" begin="1.15s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="0.65s" values="-261; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="0.65s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M754,459c0,46.67,0,93.33,0,140" stroke-dasharray="140">
+			<animate attributeName="stroke-width" begin="1.3s" values="3; 17" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="0.8s" values="140; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="0.8s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M848,526c-4-9-10-18-29.5-17.5 c-17.12,0-28.5,6.52-28.5,20.5s20,20,30,21s31,9,29,24s-20,20-31,20c-15,0-27-10-32-22" stroke-dasharray="239">
+			<animate attributeName="stroke-width" begin="1.45s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="0.95s" values="239; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="0.95s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M865.8,511.5c19.33,0,38.67,0,58,0" stroke-dasharray="58">			
+			<animate attributeName="stroke-width" begin="1.6s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.1s" values="58; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.1s" />
+		</path>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M923.16,589.4c-3.23,1.65-7.06,2.6-11.16,2.6 c-11.6,0-21-7.61-21-17V474" stroke-dasharray="143">
+			<animate attributeName="stroke-width" begin="1.6s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.1s" values="-143; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.1s" />
+		</path>
+	</g>
+	<g>
+		<circle fill="#ff66aa" cx="952.5" cy="470.5" r="0">
+			<animate attributeName="r" begin="1.75s" values="0; 11.5" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+		</circle>
+		<line fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" x1="952.5" y1="503.5" x2="952.5" y2="599.5" stroke-dasharray="96">
+			<animate attributeName="stroke-width" begin="1.75s" values="3; 17" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.25s" values="96; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.25s" />
+		</line>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M1061.64,570.05 c-6.49,13.64-19.57,22.95-34.64,22.95c-21.54,0-39-19.03-39-42.5s17.46-42.5,39-42.5c14.81,0,27.69,8.99,34.29,22.24" stroke-dasharray="215">
+			<animate attributeName="stroke-width" begin="1.9s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.4s" values="-215; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.4s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M1162.64,571.05 c-6.49,13.64-19.57,22.95-34.64,22.95c-21.54,0-39-19.03-39-42.5s17.46-42.5,39-42.5c14.81,0,35.5,10.5,36.5,37.5L1090,547" stroke-dasharray="305">
+			<animate attributeName="stroke-width" begin="2.05s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.55s" values="-305; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.55s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-miterlimit="10" d="M1195.39,494.7C1200,482,1211.5,471,1228,471 c24,0,32,16,33,28c0.44,7.35-2,14-4,19c-1,6-60,66-60,66v6h72" stroke-dasharray="278">
+			<animate attributeName="stroke-width" begin="2.2s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.7s" values="278; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.7s" />
+		</path>
+	</g>
+	<g>
+		<path fill="none" stroke="#ff66aa" stroke-width="0" stroke-linejoin="bevel" stroke-miterlimit="10" d="M1298.93,493.07 c3.48-12.67,16.29-22.07,31.57-22.07c17.95,0,32.5,7,32.5,29c0,28-42,29-42,29s46,1,46,31c-1,35-35,33-36,33s-26,0-35-27" stroke-dasharray="312">
+			<animate attributeName="stroke-width" begin="2.35s" values="3; 16" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<animate attributeName="stroke-dashoffset" begin="1.85s" values="312; 0" dur="1s" fill="freeze" calcMode="spline" keySplines="0.8 0 0.2 1"/>
+			<set attributeName="stroke-width" to="3" begin="1.85s" />
+		</path>
+	</g>
+</svg>

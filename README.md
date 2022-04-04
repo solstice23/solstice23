@@ -9,7 +9,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=solstice23&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="550"/>
 </p>
 <p align="center"> 
-  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=solstice23&mode=std&animation=true" width="550" /></a>
+  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=solstice23&mode=std&animation=true?flop=true" width="550" /></a>
 </p>
 <p align="center"> 
   Visitor count<br>

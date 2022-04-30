@@ -1,6 +1,10 @@
 # Hi there 👋
 
-![](https://github.com/solstice23/solstice23/raw/master/solstice23.svg)
+<p align="center"> 
+  </br></br></br></br></br>
+  <img src="https://github.com/solstice23/solstice23/raw/master/solstice23_svg_2_animated.svg" width="550"/>
+  </br></br></br></br></br>
+</p>
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=solstice23&show_icons=true&theme=radical&hide_border=true" width="550"/>
@@ -12,6 +16,6 @@
   <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=solstice23&mode=std&animation=true&flop=true" width="550" /></a>
 </p>
 <p align="center"> 
-  Visitor count<br>
+  Visitor count</br>
   <img src="https://profile-counter.glitch.me/solstice23/count.svg" />
 </p>

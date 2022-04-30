@@ -1,9 +1,9 @@
 # Hi there 👋
 
 <p align="center"> 
-  </br></br></br></br></br>
-  <img src="https://github.com/solstice23/solstice23/raw/master/solstice23_svg_2_animated.svg" width="550"/>
-  </br></br></br></br></br>
+  </br></br></br>
+  <img src="https://github.com/solstice23/solstice23/raw/master/solstice23_svg_2_neon.svg" width="680"/>
+  </br></br></br></br>
 </p>
 
 <p align="center"> 

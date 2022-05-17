@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=solstice23&show_icons=true&theme=radical&hide_border=true" width="550"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=solstice23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="550"/>
 </p>
 <p align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=solstice23&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="550"/>

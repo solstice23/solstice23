@@ -8,7 +8,7 @@
 
 <p align="center"> 
   </br></br>
-  <a href="https://t.me/solstice233"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-telegram.svg" width="210px"/></a>
+  <!--<a href="https://t.me/solstice233"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-telegram.svg" width="210px"/></a>-->
   <a href="https://matrix.to/#/@solstice23:matrix.org"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-matrix.svg?1" width="170px"/></a>
   <a href="https://discord.com/users/674568741660655626"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-discord.svg" width="190px"/></a>
   <a href="https://solstice23.top"><img src="https://github.com/solstice23/solstice23/raw/master/social-badges-neon/social-website.svg" width="185px"/></a>

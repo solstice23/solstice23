@@ -1,10 +1,10 @@
 # Hi there 👋
 
-<p align="center"> 
+<!--<p align="center"> 
   </br></br></br>
   <a href="https://s23.moe"><img src="https://github.com/solstice23/solstice23/raw/master/solstice23_svg_2_neon.svg" width="680"/></a>
   </br></br>
-</p>
+</p>-->
 
 <p align="center"> 
   </br></br>

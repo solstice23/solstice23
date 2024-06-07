@@ -33,4 +33,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 1;  background: linear-gradient(to right, #feac5e, #c779d0, #4bc0c8);]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.5;  background: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);]{x0000}$}

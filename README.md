@@ -34,4 +34,4 @@
 
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 100vw; opacity: 0.35;  background: linear-gradient(180deg, #A9C9FF 0%, #FFBBEC 100%);]{x0000}$}
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; bottom: 0; right: 0; height: 730px; width: 730px; background: url('https://github.com/solstice23/solstice23/assets/23134847/e91c5424-9e01-4a6d-85c0-300b5a6627d2'); transform: scale(0.2); transform-origin: right bottom; pointer-events: none;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: 10; position: fixed; bottom: 0; right: 0; height: 730px; width: 730px; background: url('https://github.com/solstice23/solstice23/assets/23134847/e91c5424-9e01-4a6d-85c0-300b5a6627d2'); transform: scale(0.2); transform-origin: right bottom; pointer-events: none;]{x0000}$}

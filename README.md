@@ -23,7 +23,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=solstice23&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
 </p>
 <p align="center"> 
-  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-stats-signature.vercel.app/card?user=solstice23&mode=std&animation=true&lang=en&skills=true" width="600" /></a>
+  <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-sig.s23.moe/card?user=solstice23&mode=std&animation=true&lang=en&skills=true" width="600" /></a>
 </p>
 <p align="center"> 
   Visitor count</br>

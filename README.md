@@ -17,10 +17,10 @@
 
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=solstice23&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" width="600"/>
+  <img src="./profile/stats.svg" width="600"/>
 </p>
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=solstice23&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=solstice23&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
 </p>
 <p align="center"> 
   <a href="https://github.com/solstice23/osu-stats-signature/"><img src="https://osu-sig.s23.moe/card?user=solstice23&mode=std&animation=true&lang=en&skills=true" width="600" /></a>

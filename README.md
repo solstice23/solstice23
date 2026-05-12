@@ -17,7 +17,7 @@
 
 
 <p align="center"> 
-  <img src="./profile/stats.svg" width="600"/>
+  <img src="https://ghstats.dev/api/card?username=solstice23&theme=radical&hide_border=true&show_icons=true" width="600"/>
 </p>
 <p align="center"> 
   <img src="https://github-profile-trophy-fork-two.vercel.app/?username=solstice23&rank=SECRET,SSS,SS,S,AAA,AA,A,B&theme=radical&column=-1&no-frame=true" width="600"/>
